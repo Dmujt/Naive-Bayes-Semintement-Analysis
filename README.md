@@ -1,5 +1,5 @@
-# Assignment 1 - Naive Bayes Sentiment Analysis
-Dena Mujtaba
+# Naive Bayes Sentiment Analysis
+Requirement: Python3.4
 
 ## Part 1
 
