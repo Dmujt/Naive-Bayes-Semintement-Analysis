@@ -1,5 +1,5 @@
 # Naive Bayes Sentiment Analysis
-Requirement: Python3.4
+
 
 ## Part 1
 
